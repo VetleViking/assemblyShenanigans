@@ -4,8 +4,8 @@
 aight g, hvis du trenger hjelp,
 så kan jeg kan hjelpe deg med å runne denne greia her.
 så det du må gjøre først er å laste ned WSL. det kan du gjøre ved å skrive wsl --install, og så følge stegene som kommer opp.
-så må du gå inn i folderen der du har lasta ned denne repositorien
-det gjør du ved å først skrive: 
+så må du gå inn i folderen der du har lasta ned denne repositorien.
+Det gjør du ved å først skrive: 
 cd ../..
 så er du i maskina sine filer.
 nå kan du bruke ls for å se hvor du skal gå neste, og cd for å gå inn. 

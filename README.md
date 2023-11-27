@@ -13,6 +13,7 @@ Jeg har vært så snill at jeg allerede har compila de to programmene jeg har, s
 det eneste du trenger å gjøre er å runne de to forskjellige greiene, oppgave3 og helloWorld.
 det gjør du ved å skrive ./navn på fil, i denne her blir det da ./helloWorld og ./oppgave3.
 gratulerer! du har greid det :)
+gjerne se på koden også, så du kan se den kule tingen som er x86 assembly.
 
 tldr: 
 wsl --install

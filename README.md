@@ -1,9 +1,11 @@
 # assemblyShenanigans
 
 
-aight g, hvis du trenger hjelp,
+Aight g, hvis du trenger hjelp,
 så kan jeg kan hjelpe deg med å runne denne greia her.
-så det du må gjøre først er å laste ned WSL. det kan du gjøre ved å skrive wsl --install, og så følge stegene som kommer opp.
+Først av alt, klon repositorien.
+Så åpner du CMD i administrator-modus,
+så kan du laste ned WSL. det kan du gjøre ved å skrive wsl --install i CMDen, og så følge stegene som kommer opp.
 så må du gå inn i folderen der du har lasta ned denne repositorien.
 Det gjør du ved å først skrive: 
 cd ../..
@@ -17,6 +19,10 @@ gjerne se på koden også, så du kan se den kule tingen som er x86 assembly.
 
 
 tldr: 
+
+klone repository
+
+åpne CMD i admin
 
 wsl --install
 

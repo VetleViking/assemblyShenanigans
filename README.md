@@ -15,6 +15,7 @@ det gjør du ved å skrive ./navn på fil, i denne her blir det da ./helloWorld 
 gratulerer! du har greid det :)
 gjerne se på koden også, så du kan se den kule tingen som er x86 assembly.
 
+
 tldr: 
 
 wsl --install
@@ -24,7 +25,11 @@ lage UNIX account
 cd ../..
 
 ls for å se mapper
+
 cd for å gå inn i mapper
+
 når fremme i assemblyShenanigans:
+
 ./helloWorld
+
 ./oppgave3
